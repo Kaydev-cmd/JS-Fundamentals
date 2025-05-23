@@ -6,5 +6,3 @@ if (arguments.length === 0) {
 } else {
   console.log("Arguments found");
 }
-
-console.log(arguments);
